@@ -11,3 +11,4 @@ Questions to Explore:
 5.  How do customers adapt their shopping habits during seasonal trends?
 6.  Are there distinct purchasing behaviors based on the number of items bought per transaction?
 7.  What insights can be gleaned from the distribution of product prices within each category?
+![Screenshot 2024-03-16 181305](https://github.com/Max030711/retail_sales_analysis/assets/141894473/93d554bd-56bd-468f-b1af-e4d49bcb64a4)
